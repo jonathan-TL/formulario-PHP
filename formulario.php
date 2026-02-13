@@ -318,7 +318,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         <!-- PORTADA CON DATOS DEL ALUMNO -->
         
         <div class="portada">
-            <h1>🏫 UNIVERSIDAD ABIERTA Y A DISTANCIA DE MÉXICO</h1>
+            <h1>🏫 UNIVERSIDAD</h1>
             <h2>PROGRAMACIÓN WEB Y BASES DE DATOS</h2>
             <div class="datos-portada">
                 <div>
