@@ -4,10 +4,10 @@
 
 
 $usuarios_validos = [
-    'admin@udgvirtual.mx' => 'Admin123',
-    'alumno@udgvirtual.mx' => 'Alumno2026',
-    'asesor@udgvirtual.mx' => 'Asesor456',
-    'coordinador@udgvirtual.mx' => 'Coord789'
+    'admin@example.mx' => 'Admin123',
+    'alumno@example.mx' => 'Alumno2026',
+    'asesor@example.mx' => 'Asesor456',
+    'coordinador@example.mx' => 'Coord789'
 ];
 
 
@@ -56,7 +56,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Formulario de login para validación de usuarios - Unidad 1 Programación Web">
-    <meta name="author" content="Juan Carlos Pérez López">
+    <meta name="author" content="[nombre]">
     <title>Sistema de Login | Unidad 1 - Programación Web</title>
     <style>
 
@@ -415,7 +415,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                     <li>World Wide Web Consortium. (2025). <em>HTML5: A vocabulary and associated APIs for HTML and XHTML</em>. W3C Recommendation. https://www.w3.org/TR/html52/</li>
                 </ul>
                 <p style="margin-top: 15px; text-align: center; color: #667eea;">
-                    <em>© 2026 - Producto desarrollado para la actividad de la Unidad 1. Todos los derechos reservados.</em>
+                    <em>© 2026 - Producto desarrollado para actividad escolar . Todos los derechos reservados.</em>
                 </p>
             </div>
         </div>
